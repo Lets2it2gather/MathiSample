@@ -1,4 +1,4 @@
-package com.example;
+package com.lets2it2gather.springboot.web.project;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
