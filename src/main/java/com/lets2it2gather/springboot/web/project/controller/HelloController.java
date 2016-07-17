@@ -1,4 +1,4 @@
-package com.lets2it2gather.springboot.web.project.resources;
+package com.lets2it2gather.springboot.web.project.controller;
 
 import java.util.HashMap;
 import java.util.Map;
