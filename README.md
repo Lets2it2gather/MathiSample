@@ -19,3 +19,7 @@ http://localhost:8080/resource
 
 username 'user' 
 password 'password'
+
+#Reference
+
+https://spring.io/guides/tutorials/spring-security-and-angular-js/
